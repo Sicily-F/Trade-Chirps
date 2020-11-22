@@ -1,0 +1,45 @@
+baseurl = "https://tradechirps.netlify.app/" 
+languageCode = "en-us"
+title = "Trade Chirps"
+theme = "soho-master" #wanted hugo-lithium before
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "Blogs"
+    url = "/blogs/"
+[[menu.main]]
+    name = "Interviews"
+    url = "/interviews/"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/ChirpsTrade"
+    
+    
+
+[params]
+    author = "Sicily Fiennes, Nuruliawati Yuwono & Karlina Indraswari"
+    description = "Echoing the unsung story of bird trade around the world"
+    profilePicture="images/nuyi logo.png"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    # path to the favicon, under "static"
+    favicon = "favicon.ico"
+
+
+
