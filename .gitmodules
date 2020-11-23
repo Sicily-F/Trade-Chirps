@@ -1,0 +1,6 @@
+[submodule "themes/soho"]
+	path = themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git
+[submodule "Trade-Chirps"]
+	path = Trade-Chirps
+	url = https://github.com/Sicily-F/Trade-Chirps.git
