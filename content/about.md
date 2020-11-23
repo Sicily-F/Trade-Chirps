@@ -3,8 +3,7 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium)
+Trade Chirps is a partnership set up between Sicily Fiennes (University of Kent), Nuruliawati Yuwono (Wildlife Conservation Society) and Karlina Indraswari (Queensland University of Technology).
 
-
-
-About TRADE Chirps
+Bird trade is a greatly undermined area of wildlife trade, and this project aims to amplify the diverse voices
+of researchers and conservation practitioners who are involved in studying the impact of trade.
