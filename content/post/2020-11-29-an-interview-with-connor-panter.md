@@ -2,17 +2,17 @@
 title: An Interview with Connor Panter
 author: Sicily Fiennes
 date: '2020-11-29'
-slug: an-interview-with-connor-panter
 categories:
   - Interviews
 tags:
-  - raptors
   - falcons
+  - raptors
   - trade
-description: 'Our first interview with researcher Connor Panter'
----
+slug: an-interview-with-connor-panter
+description: Our first interview with researcher Connor Panter
+![Connor Panter himself](/post/2020-11-29-an-interview-with-connor-panter_files/bio_photo_Connor_Panter.jpg)---
 
-**1.Tell us a little bit about yourself.**
+**1. Tell us a little bit about yourself.**
 
 At present, I am studying for a PhD in Geography/Macroecology at the University of Nottingham and have recently graduated from a masters degree in MRes Ecology and Conservation at the University of Brighton. My research interests are interdisciplinary and include estimating species extinction risk, macroecology and I have interest in the global wildlife trade. 
 
@@ -28,7 +28,7 @@ The illegal wildlife trade is now shifting online (Siriwat & Nijman, 2020), the 
 
 Humans have had a long historical relationship with birds of prey and the origins of falconry in Europe currently date back to the middle ages. Falconry is seen as a sign of wealth in some countries and has been preserved as part of the cultural and sporting heritage of the United Arab Emirates. There are many legitimate breeders that supply the demand for birds used in falconry or the pet trade often with exceptionally high animal welfare standards. However, the illegal trade in birds of prey pose global conservation and animal welfare concerns which cannot be ignored. 
 
-![alt text](6CZMM9Lc.jpg_large)
+![An example of eagles in trade: the Changeable Hawk-Eagle (*Nisaetus cirrhatus*)   ](/post/2020-11-29-an-interview-with-connor-panter_files/Changeable_hawk_eagle_19112019_2.jpg)
 
 
 **4. What are gaps in the field of raptor trade?**
